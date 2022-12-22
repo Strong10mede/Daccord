@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,QACF,CACA,oBACE,YACF,CACA,gBAGE,WAAY,CACZ,kBACF","file":"main.a44d22b1.chunk.css","sourcesContent":["body {\n  margin: 0;\n}\n*::-webkit-scrollbar {\n  display: none;\n}\nhtml,\nbody,\n#root {\n  height: 100%;\n  background: #0e1129;\n}\n"]}
